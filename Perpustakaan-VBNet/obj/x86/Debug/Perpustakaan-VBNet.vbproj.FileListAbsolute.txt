@@ -1,0 +1,18 @@
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Perpustakaan.resources
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Perpustakaan-VBNet.vbproj.GenerateResource.Cache
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\RIFGI\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\bin\Debug\Perpustakaan-VBNet.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\bin\Debug\Perpustakaan-VBNet.pdb
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\bin\Debug\Perpustakaan-VBNet.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\WindowsApplication1.Perpustakaan.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\Perpustakaan-VBNet.vbproj.GenerateResource.Cache
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\Perpustakaan-VBNet.exe
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\Perpustakaan-VBNet.xml
+C:\Users\RIFGI\Documents\Visual Studio 2010\Projects\Perpustakaan-VBNet\Perpustakaan-VBNet\obj\x86\Debug\Perpustakaan-VBNet.pdb
